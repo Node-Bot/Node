@@ -1,7 +1,7 @@
 # Node - Discord Music Bot System
 
 
- **_With the Node system, you will never have to deal with a lack of music bots in your large discord servers. The Node system is designed to make sure you never run out of available music bots in your discord server - perfect for large Disord servers._**
+ **_With the Node system, you will never have to deal with a lack of music bots in your large discord servers. The Node system is designed to make sure you never run out of available music bots in your discord server - without having to use an infinite amount of prefixes_**
 
 
 ![Node Logo](Node.png)
