@@ -8,7 +8,7 @@ To setup the Node music system, you must select bots of your choice on this webs
 
  <a href="https://discord.com/api/oauth2/authorize?client_id=831063769768919091&permissions=277504&scope=bot">
  <img src="https://raw.githubusercontent.com/Node-Bot/Node/gh-pages/Node%20Master.png">
- <target="_blank"> 
+ <target="_blank"> /> 
  </a>
 
    
