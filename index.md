@@ -9,7 +9,7 @@
 
 To setup the Node music system, you must select bots of your choice on this website. **Start off by setting up the Node Master Bot, by clicking the link below:**
 
-####  **<a href="https://discord.com/api/oauth2/authorize?client_id=831063769768919091&permissions=277504&scope=bot" target="_blank">Node Master</a>**
+### **<a href="https://discord.com/api/oauth2/authorize?client_id=831063769768919091&permissions=277504&scope=bot" target="_blank">Node Master</a>**
    
  
 
@@ -17,15 +17,15 @@ To setup the Node music system, you must select bots of your choice on this webs
 
 ### When the Master Bot has been added, you can invite as many Child Bots as you would like. Invite them by clicking their names below (You can always invite more bots in the future):
 
-####  _<a href="https://discord.com/api/oauth2/authorize?client_id=831066045594075147&permissions=3238976&scope=bot" target="_blank">Node Child (00000)</a>_
+#### _<a href="https://discord.com/api/oauth2/authorize?client_id=831066045594075147&permissions=3238976&scope=bot" target="_blank">Node Child (00000)</a>_
  
-####  _<a href="https://discord.com/api/oauth2/authorize?client_id=841301785771376640&permissions=3238976&scope=bot" target="_blank">Node Child (00001)</a>_
+#### _<a href="https://discord.com/api/oauth2/authorize?client_id=841301785771376640&permissions=3238976&scope=bot" target="_blank">Node Child (00001)</a>_
  
-####  _<a href="https://discord.com/api/oauth2/authorize?client_id=841302282998251520&permissions=3238976&scope=bot" target="_blank">Node Child (00002)</a>_
+#### _<a href="https://discord.com/api/oauth2/authorize?client_id=841302282998251520&permissions=3238976&scope=bot" target="_blank">Node Child (00002)</a>_
  
-####  _<a href="https://discord.com/api/oauth2/authorize?client_id=841302775077011537&permissions=3238976&scope=bot" target="_blank">Node Child (00003)</a>_
+#### _<a href="https://discord.com/api/oauth2/authorize?client_id=841302775077011537&permissions=3238976&scope=bot" target="_blank">Node Child (00003)</a>_
  
-####  _<a href="https://discord.com/api/oauth2/authorize?client_id=841303732176027658&permissions=3238976&scope=bot" target="_blank">Node Child (00004)</a>_
+#### _<a href="https://discord.com/api/oauth2/authorize?client_id=841303732176027658&permissions=3238976&scope=bot" target="_blank">Node Child (00004)</a>_
 
 #### _<a href="https://discord.com/api/oauth2/authorize?client_id=841304793284083712&permissions=3238976&scope=bot" target="_blank">Node Child (00005)</a>_
  
