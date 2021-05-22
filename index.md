@@ -15,5 +15,4 @@ To setup the Node music system, you must select bots of your choice on this webs
  ## Node Master Bot Setup Link ⬆️
    
    
-Tester
 
