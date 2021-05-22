@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Node - Discord Music Bot System
 
 You can use the [editor on GitHub](https://github.com/froemosen/Node/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
