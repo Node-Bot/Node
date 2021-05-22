@@ -6,10 +6,8 @@
 
 To setup the Node music system, you must select bots of your choice on this website. Start off by setting up the Node Master Bot, by clicking the icon below:
 
- <a href="https://discord.com/api/oauth2/authorize?client_id=831063769768919091&permissions=277504&scope=bot">
- <img src="https://raw.githubusercontent.com/Node-Bot/Node/gh-pages/Node%20Master.png">
- <target="_blank">/> 
- </a>
+ <a href="https://discord.com/api/oauth2/authorize?client_id=831063769768919091&permissions=277504&scope=bot" target="_blank">
+ <img src="https://raw.githubusercontent.com/Node-Bot/Node/gh-pages/Node%20Master.png" /> </a>
 
    
  ## Node Master Bot Setup Link ⬆️
