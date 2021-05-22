@@ -4,7 +4,6 @@
 
 To setup the Node music system, you must select bots of your choice on this website. Start off by setting up the Node Master Bot, by clicking the icon below:
 
- <a href="youytube.com">
+ <a href="www.youytube.com">
   <img src="https://raw.githubusercontent.com/Node-Bot/Node/gh-pages/Node%20Master.png">
 
-[![homepage][1]][2]
